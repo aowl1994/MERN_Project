@@ -1,0 +1,24 @@
+{
+  "name": "MERN_Project",
+  "version": "1.0.0",
+  "description": "MERN_Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aowl1994/MERN_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aowl1994/MERN_Project/issues"
+  },
+  "homepage": "https://github.com/aowl1994/MERN_Project#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "mongoose": "^5.9.10"
+  }
+}
